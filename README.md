@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Amol Bhalshankar and I'm a software Engineer, from pune.  I hold a degree in Mastor of Science(Computer Science) from Pune University, where my journey - ignited a passion for solving problems involving numbers and calculations.</p>
+<p align="left">My name is Amol Bhalshankar and I'm a software Engineer, from pune,Around 5 years in QA including Web Automation Testing, API Testing, ETL Testing, and Manual Testing.  I hold a degree in Mastor of Science(Computer Science) from Pune University, where my journey - ignited a passion for solving problems involving numbers and calculations.</p>
 
 ###
 
